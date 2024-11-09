@@ -19,8 +19,5 @@ http://localhost:3000/?code=A
 
 5. **Json format**
    ```bash
-{
-  "commandStr": "broadcast",
-  "message": "A"
-}
-```
+   {"commandStr": "broadcast",  "message": "A"}
+
